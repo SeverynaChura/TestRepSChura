@@ -3,4 +3,4 @@
 Test readme
 
 Lorem ipsum
-/jdng/kdfnv/lasfknvalsr/f
+This is test file for SmartGit pre-release.
